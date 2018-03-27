@@ -1,0 +1,6 @@
+var redis = require("redis");
+var response = {};
+response["set"] = redis.set("test-key", "test-value");
+response["get"] = redis.get("test-key");
+response["del"] = redis.del("test-key");
+return response;
