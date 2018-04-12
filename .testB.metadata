@@ -1,0 +1,1 @@
+{"acl":{"read":"nobody","write":"nobody","execute":"authenticated"},"contentType":"application\/vnd.scriptr-javascript","userConfig":"\/*#*beginblockly*#*<xml xmlns=\"http:\/\/www.w3.org\/1999\/xhtml\"><block type=\"text_join\" id=\"15\" inline=\"false\" x=\"1\" y=\"51\"><mutation items=\"2\"><\/mutation><\/block><\/xml>*#*#*\/"}
