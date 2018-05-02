@@ -1,1 +1,2 @@
+//test
 require("document").save({"key":"test", "myfield":150, "meta.types":{"myfield":"numeric"}});
